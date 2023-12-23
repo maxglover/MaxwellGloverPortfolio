@@ -9,13 +9,13 @@ export const projectExperience = [
     bg: "#286F6C",
   },
   {
-    name: "Mobile App Design",
+    name: "Algorithms/Data Structures",
     projects: 63,
     icon: CiMobile1,
     bg: "#EEC048",
   },
   {
-    name: "Brand Identity",
+    name: "Programming concepts",
     projects: 47,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
