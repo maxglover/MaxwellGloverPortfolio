@@ -19,9 +19,11 @@ const Hero = () => {
             I'm Max.
           </motion.span>
           <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
-            I create efficient clean
+            I am a recent college graduate and I
             <br />
-            software, And I love what I do{" "}
+            create fast and efficient software systems,
+            <br />
+            with a passion for improvement{" "}
           </motion.span>
         </div>
 
@@ -29,7 +31,7 @@ const Hero = () => {
           variants={fadeIn("up", "tween", 0.3, 1)}
           className={css.person}
         >
-          <motion.img variants={slideIn("up", "tween", 0.5, 1.3)} src="./coolmax.png" alt="" />
+          <motion.img variants={slideIn("up", "tween", 0.5, 1.3)} src="./finalmax.png" alt="" />
         </motion.div>
 
         <a className={css.email} href="mailto:maxglover62@gmail.com">
@@ -46,7 +48,7 @@ const Hero = () => {
           </motion.div>
 
           <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
-            <img src="./graduate.png" alt="" />
+            <img src="./gradcap.png" alt="" />
             <span>College Graduate</span>
             <span>Software Engineer</span>
           </motion.div>
