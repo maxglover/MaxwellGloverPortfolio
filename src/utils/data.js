@@ -22,7 +22,7 @@ export const projectExperience = [
   },
 ];
 
-export const WhatDoIHelp = ["Technical Skills: C++, TypeScript, Python, React, Git, Node.js"];
+export const WhatDoIHelp = ["Technical Skills: C++, TypeScript, Python, Java, React, Git, Node.js"];
 
 export const workExp = [
   {
