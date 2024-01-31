@@ -44,7 +44,7 @@ const Experties = () => {
 
                 <div className={`flexCenter ${css.stats}`}>
                     <a className='' href="https://github.com/maxglover?tab=repositories">
-                        <img width='10%' src="./github.png" alt="" />
+                        <img width='10%' src="../github.png" alt="" />
                         <span className='primaryText' >Github</span>
                     </a>
                 </div>

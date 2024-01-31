@@ -31,7 +31,7 @@ const Hero = () => {
           variants={fadeIn("up", "tween", 0.3, 1)}
           className={css.person}
         >
-          <motion.img variants={slideIn("up", "tween", 0.5, 1.3)} src="./finalmax.png" alt="" />
+          <motion.img variants={slideIn("up", "tween", 0.5, 1.3)} src="../finalmax.png" alt="" />
         </motion.div>
 
         <a className={css.email} href="mailto:maxglover62@gmail.com">
@@ -48,7 +48,7 @@ const Hero = () => {
           </motion.div>
 
           <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
-            <img src="./gradcap.png" alt="" />
+            <img src="../gradcap.png" alt="" />
             <span>College Graduate</span>
             <span>Software Engineer</span>
           </motion.div>
